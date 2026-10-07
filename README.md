@@ -1,6 +1,8 @@
 # fiskfit
 Fitting a Fisk distribution by ML to unit record data Use fiskfit With STATA 19
 
+https://www.youtube.com/watch?v=byr-mLPnhtE
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
